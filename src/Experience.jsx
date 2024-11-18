@@ -44,11 +44,11 @@ export default function Experience() {
                 <Text
                     font='./bangers-v20-latin-regular.woff'
                     fontSize={1}
-                    position={[2,0.75,0.75]}
+                    position={[2.5, 0.75, 0.75]}
                     rotation-y={-1.25}
-                    maxWidth={2}
+                    maxWidth={4}
                 >
-                    Nikhil Gupta
+                    Hi I'm Nikhil
                 </Text>
             </Float>
         </PresentationControls>
